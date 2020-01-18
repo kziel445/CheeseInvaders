@@ -4,6 +4,9 @@
 Gra typu Space Invaders. 
 Zadaniem jest kierowanie statkiem i strzelanie do obcych, omijając wrogie pociski jak również <b> swoje</b>
 
+Sterowanie:
+-ruch strzałki
+-strzał spacja
 
 W menu znajdują się 4 głowne opcje:<br>
 Graj - włącza gre<br>
