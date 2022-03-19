@@ -2,11 +2,11 @@
 -Cheese Invaders-
 
 Gra typu Space Invaders. 
-Zadaniem jest kierowanie statkiem i strzelanie do obcych, omijając wrogie pociski jak również <b> swoje</b>
+Gracz steruję statkiem, jego zadaniem jest zdobywanie punktów poprzez eliminowanie przeciwników. Statek może zostać zniszczony po kontakcie z pociskiem na planszy(gracz może zostać zniszczony w wyniku kontaktu ze swoim pociskiem)
 
 Sterowanie::<br>
--ruch strzałki:<br>
--strzał spacja:<br>
+ruch - strzałki<br>
+strzelanie - spacja<br>
 
 W menu znajdują się 4 głowne opcje:<br>
 Graj - włącza gre<br>
